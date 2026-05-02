@@ -31,7 +31,7 @@ ENV/
 temp/
 uploads/
 *.pdf
-*.txt
+
 
 # =========================
 # FAISS index files (optional but recommended)
